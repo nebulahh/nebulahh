@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nebulahh
-- 👀 I’m interested in web development, OSS, Linux, and web3
+- 👀 I’m interested in programming, OSS, Linux, and web3
 - 🌱 I’m currently learning HTML, CSS, JS 
 - 💞️ I’m looking to collaborate on any related project 
 - 📫 How to reach me @nebuulah1 on Twitter
