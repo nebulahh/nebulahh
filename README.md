@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nebulahh
+- 👋 Hi, I’m olalekan
 - 👀 I’m interested in programming, OSS, Linux, and web3
 - 🌱 I’m currently learning HTML, CSS, JS 
 - 💞️ I’m looking to collaborate on any related project 
