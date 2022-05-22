@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olalekan</h1>
-<h3 align="center">A passionate developer from Nigeria</h3>
+<h3 align="center">A developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **JavaScript, Tailwind, Sass and Nodejs**
-
-- 👯 I’m looking to collaborate on **Open Source Project**
 
 - 👨‍💻 All of my projects are available at [olalekan-develops.netlify.app](olalekan-develops.netlify.app)
 
