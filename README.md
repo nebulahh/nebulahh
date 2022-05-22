@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Olalekan</h1>
-<h3 align="center">A developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **JavaScript, Tailwind, Sass and Nodejs**
 
