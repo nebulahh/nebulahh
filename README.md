@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olalekan</h1>
-
-- 🌱 I’m currently learning **JavaScript, Tailwind, Sass and Nodejs**
+![Header](./github-header-image.png)
 
 - 👨‍💻 All of my projects are available at [olalekan-develops.netlify.app](olalekan-develops.netlify.app)
 
