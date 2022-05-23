@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
+<p align="center"><img src="./github-header-image.png" alt="header img"></p>
 
 - 👨‍💻 All of my projects are available at [olalekan-develops.netlify.app](olalekan-develops.netlify.app)
 
