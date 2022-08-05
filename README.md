@@ -1,8 +1,8 @@
 <!-- ![Header](./github-header-image.png) -->
 <!-- <p align="center"><img src="./github-header-image.png" alt="header img"></p> -->
-<h1 align="center">Hi<img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Olalekan</h1> 
+<h1 align="center">Hi<img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"></h1> 
 
-- I am a Full stack web developer from Nigeria 
+- I am a Full stack developer
 - 👨‍💻 All projects are available at [olalekan-develops.netlify.app](olalekan-develops.netlify.app)
 
 <h3 align="center">Languages and Tools:</h3>
