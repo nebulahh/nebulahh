@@ -1,6 +1,6 @@
 <!-- ![Header](./github-header-image.png) -->
 <!-- <p align="center"><img src="./github-header-image.png" alt="header img"></p> -->
-<h1 align="center">Hi<img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"></h1> 
+<h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">Hi, i am olalekan</h1> 
 
 - I am a Full stack developer
 - 👨‍💻 All projects are available at [https://lekanadegbite.netlify.app/](https://lekanadegbite.netlify.app/)
