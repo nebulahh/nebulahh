@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm ola</h1>
 
+<img width="1000" src="banner2.gif" />
+
+
 - 🌱 I’m currently learning **a lot of things**
 
 - 👨‍💻 All of my projects are available at [https://lekanadegbite.netlify.app/](https://lekanadegbite.netlify.app/)
