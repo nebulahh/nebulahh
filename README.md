@@ -1,8 +1,6 @@
 <h1 align="center">Welcome</h1>
 
-<kbd>
-<img width="100%" border-radius="30px" src="banner2.gif" />
-</kbd>
+<img width="100%" src="banner2.gif" />
 
 - 🌱 I’m currently learning **a lot of things**
 
