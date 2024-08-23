@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **a lot of things**
 
-- 👨‍💻 All my projects are available at [https://lekanadegbite.netlify.app/](https://lekanadegbite.netlify.app/)
+<!-- 👨‍💻 All my projects are available at [https://lekanadegbite.netlify.app/](https://lekanadegbite.netlify.app/) -->
 
 
 <!-- <h3 align="left">Connect with me:</h3>
