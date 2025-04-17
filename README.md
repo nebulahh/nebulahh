@@ -12,7 +12,7 @@
 <a href="https://twitter.com/nebuulah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nebuulah1" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="center">Tools of the trade:</h3>
+<!--<h3 align="center">Tools of the trade:</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -21,5 +21,5 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebulahh&show_icons=true&theme=radical&locale=en&layout=compact" alt="nebulahh" />
-&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nebulahh&show_icons=true&theme=radical&locale=en" alt="nebulahh" />
+&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nebulahh&show_icons=true&theme=radical&locale=en" alt="nebulahh" /> -->
 
